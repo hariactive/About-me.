@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/70790835/236917268-74f200b1-b870-44df-bfd6-41f006e70057.png)
-
+![image](https://user-images.githubusercontent.com/70790835/236917482-2dd42e81-d65d-4a9e-92b6-bc97f9943eda.png)  ![image](https://user-images.githubusercontent.com/70790835/236917521-4d06a098-7662-4b76-be41-3302cfbb09e2.png)  ![image](https://user-images.githubusercontent.com/70790835/236917565-bf011105-0edc-40ad-a25b-e54e00dfd632.png)
 
 
 - 👋 Hi, I’m @hari_narayan_shukla.
