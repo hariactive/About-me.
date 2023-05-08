@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/70790835/236917268-74f200b1-b870-44df-bfd6-41f006e70057.png)
+
+
+
 - 👋 Hi, I’m @hari_narayan_shukla.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning different type of algorithms and data structure.
